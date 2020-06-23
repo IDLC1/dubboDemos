@@ -1,0 +1,1 @@
+java -jar E:\study\project\dubbo\dubbo-admin\dubbo-admin-server\target\dubbo-admin-server-0.2.0-SNAPSHOT.jar
